@@ -20,7 +20,7 @@ Our projects are primarily implemented in **Python**. The following tools and li
 ## How to Clone and Run
 1. Clone the repository:
    ```bash
-git clone https://github.com/ChaariMahmoud/Computational-Geometry
+   git clone https://github.com/ChaariMahmoud/Computational-Geometry
    ```
    
  2. Navigate to the directory of the project you're working on, such as TP1-Graham:
