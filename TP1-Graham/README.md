@@ -20,7 +20,7 @@ The algorithm's time complexity is **O(n log n)** due to the sorting step.
 
 Below is an example of the convex hull generated for a set of points.
 
-![Convex Hull Example](/home/hamoud/Pictures/Screenshots/Graham.png)
+![Convex Hull Example]![Graham](https://github.com/user-attachments/assets/fb786fd6-1021-44de-86cd-5094f76ccb57))
 
 
 ## Project Content
@@ -30,6 +30,7 @@ This project implements the Graham Scan algorithm to calculate and display the c
 ## Technologies Used
 
 - **Python** for the core implementation.
+
 - **`math`** module for geometric calculations.
 - **`matplotlib`** for visualizing the points and convex hull.
 
