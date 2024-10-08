@@ -40,7 +40,7 @@ This repository is a collaborative effort by:
 - **Chaari Mahmoud**
 - **[Aroua Ben Daya](https://github.com/Aroua-Ben-Daya)**
 
-A special thanks to [Aroua Ben Daya](https://github.com/Aroua-Ben-Daya) for their valuable contributions and support throughout the project!
+A special thanks to [Aroua Ben Daya](https://github.com/Aroua-Ben-Daya) for her valuable contributions and support throughout the project!
 
 ## Contact
 
