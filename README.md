@@ -24,7 +24,7 @@ Our projects are primarily implemented in **Python**. The following tools and li
    ```
    
  2. Navigate to the directory of the project you're working on, such as TP1-Graham:
-    ```bash
+   ```bash
    cd computational-geometry/TP1-Graham
    ```
  3. Run the program:
@@ -38,7 +38,7 @@ Our projects are primarily implemented in **Python**. The following tools and li
 This repository is a collaborative effort by:
 
 - **Chaari Mahmoud**
-- **Aroua Ben Daya(https://github.com/Aroua-Ben-Daya)**
+- **[Aroua Ben Daya](https://github.com/Aroua-Ben-Daya)**
 
 A special thanks to [Aroua Ben Daya](https://github.com/Aroua-Ben-Daya) for their valuable contributions and support throughout the project!
 
