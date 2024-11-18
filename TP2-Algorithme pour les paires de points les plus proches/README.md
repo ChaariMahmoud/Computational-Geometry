@@ -77,6 +77,8 @@ Users can input 2D points interactively. Enter "fin" to complete input.
 ## Example of Convex Hull
 
 Below is an example of the convex hull generated for a set of points.
+![Screenshot from 2024-11-18 17-20-37](https://github.com/user-attachments/assets/cc107270-3320-4e3c-b3df-8211af3fcafb)
+
 
 ## Project Content
 
