@@ -98,7 +98,7 @@ Below is an example of the convex hull generated for a set of points.
 1. **Install Python** (version 3.7 or higher).
 2. **Install the required modules**:
 ```bash
-   pip install matplotlib
+pip install matplotlib
    ```
 3. **Run the Python scrip**:
   ```bash
